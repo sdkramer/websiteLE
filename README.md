@@ -1,3 +1,3 @@
 # Sample Website
 
-This is a practice website, made as part of the work for the course [*Learn Enough Git to be Dangerous*](https://www.learnenough.com/git-tutorial).
+This is a sample website made to practice the lessons in [Learn Enough Git To Be Dangerous](https://www.leanrenough.com/git-tutorial).
